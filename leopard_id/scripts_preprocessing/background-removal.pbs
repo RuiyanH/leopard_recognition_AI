@@ -1,0 +1,34 @@
+# Job name
+#PBS -N background-removal
+
+# Resource requirements
+#PBS -l select=1:ncpus=32:mem=16gb
+
+# Time required in hh:mm:ss
+#PBS -l walltime=6:30:00
+
+# Files to contain standard error and standard output
+#PBS -o stdout
+#PBS -e stderr
+
+module load tools/prod
+# uncomment the below if we are running from normal hpc, not cx3
+# module load anaconda3/personal
+
+# Change to source activate background-removal for non cx3
+source /rds/general/user/dc1823/home/anaconda3/bin/activate background-removal
+
+# Verify if rembg is installed
+which python
+which pip
+# background-removal has rembg installed. Don't try gpu one, messes everything.
+
+pip list | grep rembg
+
+# Makes sure that when our job starts it cd's to whatever directory we submitted job from. 
+# Submit this one from scripts_preprocessing 
+cd $PBS_O_WORKDIR
+
+python3 background_removal.py
+
+# Run the code

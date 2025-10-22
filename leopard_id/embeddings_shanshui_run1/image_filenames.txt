@@ -1,0 +1,34 @@
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-11020286.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-11020287.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-AS040040.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-AS040041.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-AS040043.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-AS040044.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0283.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0284.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0313.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0314.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0317.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0319.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0320.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0328.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0329.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0331.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0332.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0334.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0335.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0337.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_B/0_0_Common leopard-Iron-IMAG0338.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_C/0_0_Common leopard-Mosai-11020283.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_C/0_0_Common leopard-Mosai-11020284.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_C/0_0_Common leopard-Mosai-A2230610.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_C/0_0_Common leopard-Mosai-AS220040.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_C/0_0_Common leopard-Mosai-AS220041.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_C/0_0_Common leopard-Mosai-Ere 0181.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_C/0_0_Common leopard-Mosai-Ere 0274.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_C/0_0_Common leopard-Mosai-IMAG0298.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_C/0_0_Common leopard-Mosai-IMAG0299.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_C/0_0_Common leopard-Mosai-IMAG0301.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_C/0_0_Common leopard-Mosai-IMAG0302.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_C/0_0_Common leopard-Mosai-IMG_0117.jpg
+/Users/ruiyan/spotID/data/crop_train_test_dataset_rgba_1/Leopard_C/0_0_Common leopard-Mosai-IMG_0118.jpg
